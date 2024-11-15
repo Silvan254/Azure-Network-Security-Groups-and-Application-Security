@@ -2,6 +2,8 @@
 I will set up virtual networking for my organization with two server groups: Web Servers and Management Servers, each in its own Application Security Group. I'll configure rules to allow RDP to Management Servers, IIS access to Web Servers, and restrict RDP to Web Servers.  Lab Objectives: Create network infrastructure. Deploy VMs and test filters.
 
 Network and Application Security Groups diagram
+
+
 ![image](https://github.com/user-attachments/assets/b9765f2d-4e30-4d82-bf2b-1613dc7e78f5)
 
 
