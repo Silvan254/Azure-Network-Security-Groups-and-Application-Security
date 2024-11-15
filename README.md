@@ -16,4 +16,13 @@ Task 1: Create a virtual network
 On the IP addresses tab of the Create virtual network blade, set the IPv4 address space to 10.0.0.0/16, and, if needed, in the Subnet name column, click default, on the Edit subnet blade, specify the following settings and click Save:
 ![image](https://github.com/user-attachments/assets/6c41d899-7e36-4e72-bd20-7b25bc61396e)
 
+Task 2: Create application security groups
+
+
+![image](https://github.com/user-attachments/assets/48c4451b-e85b-45b3-8cef-c64f99ecb4fb)
+
+
+![image](https://github.com/user-attachments/assets/6d55a145-9a02-4ebc-a508-79ddfc010192)
+
+![image](https://github.com/user-attachments/assets/8a17773e-ec92-4eba-a549-d136565b5554)
 
