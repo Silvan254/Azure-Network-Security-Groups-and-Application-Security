@@ -24,5 +24,4 @@ Task 2: Create application security groups
 
 ![image](https://github.com/user-attachments/assets/6d55a145-9a02-4ebc-a508-79ddfc010192)
 
-![image](https://github.com/user-attachments/assets/8a17773e-ec92-4eba-a549-d136565b5554)
 
